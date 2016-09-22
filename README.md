@@ -1,27 +1,21 @@
 # README #
-** Let's code is just for fun - Solve some problems form the all kind of sites. **
-
-
-**Links úteis:**
+Let's code is just for fun - Solve some problems form the all kind of sites
 
 ## Cool sites for coding
 
-## Hackerrank
-https://www.hackerrank.com/
+## [Hackerrank] (https://www.hackerrank.com/)
+ 
+## [URI Online Judge - Problems & Contests] (https://www.urionlinejudge.com.br/)
 
-## URI Online Judge - Problems & Contests
-https://www.urionlinejudge.com.br/
+## [Interview Bit] (https://www.interviewbit.com/)
 
-## Interview Bit
-https://www.interviewbit.com/
+## [Code Fights] (https://codefights.com/)
 
-## Code Fights
-https://codefights.com/
-
-## Live Coding
-https://www.livecoding.tv/
+## [Live Coding] (https://www.livecoding.tv/)
 
 ## Fun Sites
-https://www.nayuki.io/
-https://nihey.org/
-https://try.github.io/
+[Project Nayuki] (https://www.nayuki.io/)
+
+[Nihey site] (https://nihey.org/)
+
+[Try Git] (https://try.github.io/)
