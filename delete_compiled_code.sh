@@ -2,6 +2,8 @@
 
 # Last update: 22/09/2016
 
+# Code from Ryuzaki42 git repository Let's code (https://github.com/ryuuzaki42/lets_code.git). Enjoy it!
+
 # Simples script to delete all the *.out comiped files from C++
 
 echo -e "This script will delete this files\n"
