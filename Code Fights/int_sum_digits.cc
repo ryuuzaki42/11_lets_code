@@ -7,7 +7,7 @@
 // # Code credits: Clebson Cardoso [my friend :)] => https://github.com/clebsonc #
 
 // To compile:
-// g++ -o int_sum_digits.out int_sum_digits.c
+// g++ -o int_sum_digits.out int_sum_digits.cc
 
 #include <iostream>
 

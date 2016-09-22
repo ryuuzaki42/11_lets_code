@@ -9,7 +9,7 @@
 // 150.00           A=70685.7750
 
 // To compile:
-// g++ -o 1002_area_a\ circumference.out 1002_area_a\ circumference.c
+// g++ -o 1002_area_a\ circumference.out 1002_area_a\ circumference.cc
 
 #include <iostream>
 #include <stdio.h>
