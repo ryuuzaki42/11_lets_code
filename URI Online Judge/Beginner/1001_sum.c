@@ -2,6 +2,9 @@
 
 // Read 2 integer values (a, b), make the sum, and its result to X
 
+// To compile:
+// g++ -o 1001_sum.out 1001_sum.c
+
 #include <iostream>
 
 using namespace std;

@@ -6,6 +6,9 @@
 
 // # Code credits: Clebson Cardoso [my friend :)] => https://github.com/clebsonc #
 
+// To compile:
+// g++ -o int_sum_digits.out int_sum_digits.c
+
 #include <iostream>
 
 using namespace std;
