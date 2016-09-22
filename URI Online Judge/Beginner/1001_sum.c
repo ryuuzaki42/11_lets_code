@@ -1,3 +1,5 @@
+// Code from Ryuzaki42 git repository Let's code (https://github.com/ryuuzaki42/lets_code.git). Enjoy it!
+
 // Read 2 integer values (a, b), make the sum, and its result to X
 
 #include <iostream>

@@ -1,3 +1,5 @@
+// Code from Ryuzaki42 git repository Let's code (https://github.com/ryuuzaki42/lets_code.git). Enjoy it!
+
 // Given an integer, find the sum of all its digits
 // n = 111 =>  3 : 1 + 1 + 1
 // n = 172 => 10 : 1 + 7 + 2

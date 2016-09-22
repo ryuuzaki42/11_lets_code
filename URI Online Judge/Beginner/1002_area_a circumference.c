@@ -1,3 +1,5 @@
+// Code from Ryuzaki42 git repository Let's code (https://github.com/ryuuzaki42/lets_code.git). Enjoy it!
+
 // Input R and  calculate the area of a circumference is defined as A = π * R^2; with π = 3.14159:
 // Output: "A=" followed by the value with four places after the decimal point
 
