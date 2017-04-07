@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Last update: 22/09/2016
+# Last update: 07/04/2017
 
 # Code from Ryuzaki42 git repository Let's code (https://github.com/ryuuzaki42/lets_code.git). Enjoy it!
 
@@ -8,17 +8,16 @@
 
 echo -e "This script will delete this files\n"
 
-ls *.out 2> /dev/null
-ls */*.out 2> /dev/null
-ls */*/*.out 2> /dev/null
+ls ./*.out 2> /dev/null
+ls ./*/*.out 2> /dev/null
+ls ./*/*/*.out 2> /dev/null
 
 echo -en "\nWant continue and delete this files?\n(y)es - (n)o: "
-read continueCopy
+read -r continueCopy
 
 if [ "$continueCopy" == "y" ]; then
-    scriptsFolder=`pwd`
-    rm *.out
-    rm */*.out
-    rm */*/*.out
+    rm ./*.out
+    rm ./*/*.out
+    rm ./*/*/*.out
 fi
 echo -e "\nEnd of the script\n"
